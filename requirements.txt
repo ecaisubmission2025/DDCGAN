@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+numpy
+pandas
+pyarrow
+scikit-learn
+transformers
+ipykernel
+tqdm
+ipywidgets
+sentence_transformers
+torch
